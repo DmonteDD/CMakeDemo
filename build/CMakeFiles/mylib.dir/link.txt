@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmylib.a  CMakeFiles/mylib.dir/Heap.cpp.o CMakeFiles/mylib.dir/Object.cpp.o CMakeFiles/mylib.dir/MSCollector.cpp.o CMakeFiles/mylib.dir/LinkedList.cpp.o
+/usr/bin/ranlib libmylib.a

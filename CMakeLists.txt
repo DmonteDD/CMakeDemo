@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.0)
+project(CmakeDemo)
+add_compile_options(-Wall -Wextra -Wpedantic)
+message(STATUS "We are on a ${CMAKE_SYSTEM_NAME} system")
+message(STATUS "The host processor is ${CMAKE_HOST_SYSTEM_PROCESSOR}")
+message( ${CMAKE_CURRENT_SOURCE_DIR} )
+add_library(mylib STATIC Heap.cpp Object.cpp MSCollector.cpp LinkedList.cpp)
+add_executable(myexe main.cpp)
+target_link_libraries(myexe mylib)
+#[[add_executable(OutputExe main.cpp Heap.cpp Object.cpp MSCollector.cpp LinkedList.cpp)]]

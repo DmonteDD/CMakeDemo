@@ -1,0 +1,4 @@
+/home/damian/Damian/CMakeDemo/CMakeDemo/build/CMakeFiles/edit_cache.dir
+/home/damian/Damian/CMakeDemo/CMakeDemo/build/CMakeFiles/mylib.dir
+/home/damian/Damian/CMakeDemo/CMakeDemo/build/CMakeFiles/rebuild_cache.dir
+/home/damian/Damian/CMakeDemo/CMakeDemo/build/CMakeFiles/myexe.dir

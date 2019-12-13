@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/OutputExe.dir/main.cpp.o CMakeFiles/OutputExe.dir/Heap.cpp.o CMakeFiles/OutputExe.dir/Object.cpp.o CMakeFiles/OutputExe.dir/MSCollector.cpp.o CMakeFiles/OutputExe.dir/LinkedList.cpp.o  -o OutputExe 
